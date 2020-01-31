@@ -31,7 +31,7 @@ class LoginPageState extends State<LoginPage> {
   Widget build(BuildContext context) {
     this._context = context;
     return Scaffold(
-      appBar: AppBar(),
+      //appBar: AppBar(),
       body: Container(
         child: Form(
             key: formKey,
